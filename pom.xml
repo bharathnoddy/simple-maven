@@ -3,7 +3,7 @@
 
   <groupId>com.github.jitpack</groupId>
   <artifactId>maven-simple</artifactId>
-  <version>0.4</version>
+  <version>0.5-SNAPSHOT</version>
   <packaging>jar</packaging>
 
  <properties>
@@ -14,7 +14,7 @@
 
 	  <developerConnection>scm:git:https://github.com/bharathnoddy/simple-maven.git</developerConnection>
 
-    <tag>maven-simple-0.4</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
