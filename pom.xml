@@ -8,7 +8,7 @@
   <scm>
 	  <connection>scm:git:https://github.com/bharathnoddy/simple-maven.git</connection>
 
-	  <developerConnection>scm:git:bharathnoddy@github.com:bharathnoddy/simple-maven.git</developerConnection>
+	  <developerConnection>scm:git:bharathnoddy:Btbh@j88@github.com:bharathnoddy/simple-maven.git</developerConnection>
 	  <url>https://github.com/bharathnoddy/simple-maven</url>
     	  <tag>HEAD</tag>
   </scm>
