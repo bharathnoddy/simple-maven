@@ -6,9 +6,11 @@
   <version>0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
   <scm>
-	  <connection>scm:git:https://github.com/bharathnoddy/simple-maven
-   	  </connection>
-    <tag>HEAD</tag>
+	  <connection>scm:git:https://github.com/bharathnoddy/simple-maven.git</connection>
+
+	  <developerConnection>scm:git:git@github.com:bharathnoddy/simple-maven.git</developerConnection>
+	  <url>https://github.com/bharathnoddy/simple-maven</url>
+    	  <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
