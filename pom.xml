@@ -60,18 +60,7 @@
           <!-- update this to the correct id! -->
         </configuration>
       </plugin>
-	
-      <plugin>
-        <groupId>org.sonatype.plugins</groupId>
-        <artifactId>nexus-staging-maven-plugin</artifactId>
-        <version>1.6.3</version>
-        <extensions>true</extensions>
-        <configuration>
-              <serverId>nexus</serverId>
-          <nexusUrl>http://tlhe013.teleosmedia.com:8081/</nexusUrl>
-          <!-- update this to the correct id! -->
-        </configuration>
-       </plugin>
+
 
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
